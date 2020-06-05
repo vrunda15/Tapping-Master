@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tapping Master</string>
+    <string name="your_score">Score : %s</string>
+    <string name="time_left">Time Left : %s</string>
+    <string name="tap_me">TAP ME</string>
+    <string name="game_over_message">Times up! Your score was : %s</string>
+    <string name="about_menu">About</string>
+    <string name="about_title">Tapping Master</string>
+    <string name="about_message">Tap the button as fast as you can because all you have is 60 secs to prove your mighty skills
+    </string>
+</resources>
